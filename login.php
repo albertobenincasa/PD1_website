@@ -26,7 +26,7 @@ checkCookie();
           </div>
           <div class="form-group">
             <label for="password">Password:</label>
-            <input type="password" class="form-control" name="password" id="password" placeholder="Insert password please" required />
+            <input type="password" class="form-control" name="password" id="password" placeholder="Enter your Password" required />
           </div>
           <div class="form-group">
             <button type="submit" class="btn btn-primary" name="login_user" id="login_user">Login</button>
